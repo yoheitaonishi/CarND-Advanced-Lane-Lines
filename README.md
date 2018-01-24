@@ -2,27 +2,12 @@
 
 [//]: # (Image References)
 
-[image1]: ./examples/undistort_output.png "Undistorted"
-[image2]: ./test_images/test1.jpg "Road Transformed"
-[image3]: ./examples/binary_combo_example.jpg "Binary Example"
-[image4]: ./examples/warped_straight_lines.jpg "Warp Example"
-[image5]: ./examples/color_fit_lines.jpg "Fit Visual"
-[image6]: ./examples/example_output.jpg "Output"
-[video1]: ./project_video.mp4 "Video"
-
-## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
-
-### Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
-
----
-
-#### 1. Provide a Writeup / README that includes all the rubric points and how you addressed each one.  You can submit your writeup as markdown or pdf.  [Here](https://github.com/udacity/CarND-Advanced-Lane-Lines/blob/master/writeup_template.md) is a template writeup for this project you can use as a guide and a starting point.  
-
-You're reading it!
-
----
-
-
+[image1]: ./output_images/image01.png "Undistorted"
+[image2]: ./output_images/image03.png "Road Transformed"
+[image3]: ./output_images/image04.png "Binary Example"
+[image4]: ./output_images/image05.png "Warp Example"
+[image5]: ./output_images/image07.png "Fit Visual"
+[image6]: ./output_images/image08.png "Output"
 
 ### Camera Calibration
 
