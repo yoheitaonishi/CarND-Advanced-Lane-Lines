@@ -79,10 +79,10 @@ I implemented this step in 20th code cell.  Here is an example of my result on a
 
 #### 1. Final video output.  
 
-Here's a [link to my video result](https://youtu.be/dvdcejxD4Vo)
+Here's a [link to my video result](https://youtu.be/rlpJdBNwUV4)
 
 ---
 
 ### Discussion
 
-* Sometimes, my video can't detect line smothly. (I think Line class can be improved.)
+* Sometimes, my video can't detect line smothly. I think Line class can be improved. Now, I use last n lane curverad if line isn't detectd but it doesn't work well when line isn't detected in a continuous. I should calculate line curverad insted it. It would be good if Line class has some calculated value like array of previous curverad. Then I can calulate curverad with some weight
