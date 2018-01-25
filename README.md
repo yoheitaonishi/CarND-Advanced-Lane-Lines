@@ -86,3 +86,4 @@ Here's a [link to my video result](https://youtu.be/rlpJdBNwUV4)
 ### Discussion
 
 * Sometimes, my video can't detect line smothly. I think Line class can be improved. Now, I use last n lane curverad if line isn't detectd but it doesn't work well when line isn't detected in a continuous. I should calculate line curverad insted it. It would be good if Line class has some calculated value like array of previous curverad. Then I can calulate curverad with some weight
+* In challenge video, right half of road that car is running and left half one are different color. In this case, my code might detect border of different color as line. It should be set limit of line width.
